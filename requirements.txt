@@ -1,0 +1,4 @@
+py3cw
+telegram
+colorama
+python-telegram-bot
