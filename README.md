@@ -16,4 +16,5 @@ Just edit the following and your ready to go
 
 
 
-
+#### Command to use 
+**/sell**
